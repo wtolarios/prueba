@@ -15,6 +15,7 @@ namespace Proy_Pharmacy
         public Form1()
         {
             InitializeComponent();
+            //prueba
         }
     }
 }
