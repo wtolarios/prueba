@@ -16,6 +16,7 @@ namespace Proy_Pharmacy
         {
             InitializeComponent();
             //prueba
+            //prueba Luis1
         }
     }
 }
